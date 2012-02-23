@@ -1,0 +1,13 @@
+set cindent
+set encoding=utf8
+set fileencoding=utf8
+set fileencodings=utf8,cp950,latin1
+set hls
+set nu
+set ru
+set secure
+set expandtab
+set sw=4
+set softtabstop=4
+set termencoding=utf8
+syntax on
