@@ -40,7 +40,3 @@ alias d 'ls -al'
 alias n 'nslookup '
 alias grep 'grep --color'
 alias g grep
-alias svn 'svn --username jnlin'
-alias jslint '~/.vim/bin/jslint'
-alias precmd "source ~/bin/setprompt"
-
